@@ -1,0 +1,3 @@
+﻿match_id,player_id,player_name,opponent_id,opponent_name,tournament,date,result,duration,sets_played,stage,nationality,age,height,weight,dominant_hand,world_rank,service_total,service_success,smash_attempts,smash_success,net_play_attempts,net_play_success,lob_count,drop_shot_count,errors,rally_length_avg,service_ace,movement_distance,avg_speed,max_speed,avg_heart_rate,max_heart_rate,stamina_index,jump_count,recovery_index
+54,108,Lin Dan,205,Viktor Axelsen,All England Open,2023-02-23,win,79,2,Semifinals,Malaysia,28,171,78,Left,32,48,34,58,54,39,17,25,29,13,6.5,4,3575,4.9,8.4,167,188,83,120,0.75
+75,105,Lin Dan,207,Anthony Ginting,All England Open,2023-03-16,win,67,2,Semifinals,China,40,171,68,Right,9,62,34,50,42,45,15,21,16,12,7.7,5,4993,6.3,7.6,151,192,90,122,0.89
